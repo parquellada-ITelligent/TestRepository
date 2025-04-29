@@ -13,7 +13,7 @@
         "n": "j-E-mZJoBdigvW6GG14svSp0-QtzqEVCkDySOgp8dWcwz4WISLp70RDbzrpb50kibQClNnLbWTHK40aBzGUuOTix5rg6HEVJCrEMjykkcPluxoUWVsfYx2KqgwN4NwCSRoyFbkhsaLCjGHjVbwuXo-9BtmmeQY7hiJLCPKMff2fUZiFGaeq4otiv2MxeRi5V5C6U9kr10DA9awk8hobOYy8sOc8LMm_3TDsjHhumOt52Ekp6gZlKiCIJ536EM6Er7vP_dnSLKtpmUR704_1WZIIKiLPa7v4Imq0UHQvvQ5iLyuv0fFkJFZ_9xeLs-VFx_SCskJR6UZNX7QR8GaCNAQ",
         "e": "AQAB",
         "alg": "RS256",
-        "x5u": "https://raw.githubusercontent.com/parquellada-ITelligent/TestRepository/main/public_key.pem"
+        "x5u": "https://raw.githubusercontent.com/parquellada-ITelligent/TestRepository/main/cert.pem"
       }
     }
   ],
